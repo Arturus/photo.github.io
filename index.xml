@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Gallery on Gallery</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Hugo Gallery on Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>asuilin@gmail.com (Artur Suilin)</managingEditor>
+    <webMaster>asuilin@gmail.com (Artur Suilin)</webMaster>
+    <copyright>© Artur Suilin</copyright><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Belgrade</title>
+      <link>//localhost:1313/belgrade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>asuilin@gmail.com (Artur Suilin)</author>
+      <guid>//localhost:1313/belgrade/</guid><media:content url="//localhost:1313/belgrade/R0000035_featured_hud3366658bc1a1ad164465f7c40f6a32f_13622475_900x600_fill_q80_catmullrom_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/belgrade/R0000035_featured_hud3366658bc1a1ad164465f7c40f6a32f_13622475_900x600_fill_q80_catmullrom_smart1.JPG&quot; /&gt;
+          &lt;p&gt;Day and night in Belghrade&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
